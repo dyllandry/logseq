@@ -13,6 +13,6 @@
 		- docker
 			- applied to school prisma ORM project
 		- k8s
-			- school api, school database,
+			- school api, school database, smq consumer: school api provides route to generate report cards for each student which
 		- unit tests, e2e tests
 - LATER decide on criteria for new web job
