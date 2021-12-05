@@ -7,7 +7,7 @@
 			- consumer_app_1: reads off queue 1, does fake long process
 			- consumer_app_2: reads of queue 2, does fake long process
 		- prisma ORM
-			- student, class, teacher db w/ migrations, seeding
+			- school app backend w/ migrations, seeding
 		- graphql api
 			- on top of the school prisma ORM project
 		- docker
