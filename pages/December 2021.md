@@ -9,7 +9,9 @@
 		- prisma ORM
 			- student, class, teacher db w/ migrations, seeding
 		- graphql api
+			- on top of the school prisma ORM project
 		- docker
+			- applied to school prisma ORM project
 		- k8s
 		- unit tests, e2e tests
 - LATER decide on criteria for new web job
