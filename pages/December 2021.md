@@ -8,15 +8,16 @@
 			- consumer_app_2: reads of queue 2, does fake long process
 		- prisma ORM
 			- school app backend w/ migrations, seeding
+			- include tests that involve seeding
 		- graphql api
 			- on top of the school prisma ORM project
 		- docker
 			- applied to school prisma ORM project
 		- k8s
-			- apps:
+			- services:
 				- school api
 				- school database
-			- report card generator
-			- school api provides route to generate report cards for each student which sends messages to smq,
+				- report card generator
+			- school api provides route to generate report cards for each student which sends messages to smq, report card generate consumes the events as it can.
 		- unit tests, e2e tests
 - LATER decide on criteria for new web job
