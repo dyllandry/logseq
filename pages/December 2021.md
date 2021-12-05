@@ -2,8 +2,8 @@
 	- I'd like to do small manageable projects instead of large ones. I don't want to bottleneck anything.
 		- I could build a larger project with each increment.
 	- Tech I want to use:
-		- event queue on AWS
-			- Setup message queues
+		- simple message queue (SMQ) on AWS
+			- sender_app_1: sends messages
 		- prisma ORM
 		- graphql api
 		- docker
