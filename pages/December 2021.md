@@ -14,11 +14,12 @@
 			- include tests
 		- docker
 			- docker-compose for school database & api w/ ORM
+		- Next.js
+			- simple frontend for school app
 		- k8s
 			- services:
 				- school api
 				- school database
 				- report card generator
 			- school api provides route to generate report cards for each student which sends messages to smq, report card generate consumes the events as it can.
-		- unit tests, e2e tests
 - LATER decide on criteria for new web job
