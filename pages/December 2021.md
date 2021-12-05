@@ -3,7 +3,7 @@
 		- I could build a larger project with each increment.
 	- Tech I want to use:
 		- event queue on AWS
-			- Have one app publishing events every minute, and another two apps digesting them.
+			- Have an online store app submit "
 		- prisma ORM
 		- graphql api
 		- docker
