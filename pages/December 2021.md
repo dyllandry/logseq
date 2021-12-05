@@ -10,4 +10,3 @@
 		- k8s
 		- unit tests, e2e tests
 - LATER decide on criteria for new web job
--
