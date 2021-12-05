@@ -11,8 +11,9 @@
 			- include tests that involve seeding
 		- graphql api
 			- on top of the school prisma ORM project
+			- include tests
 		- docker
-			- applied to school prisma ORM project
+			- docker-compose for school database & api w/ ORM
 		- k8s
 			- services:
 				- school api
