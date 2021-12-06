@@ -6,7 +6,9 @@
 - todo
 	- LATER read docs on SMQ
 		- about the types of queues
-		- the architecture,
+		- read any tips about how to use them properly
+		- decide which kind of queues to use
+		- example projects to see how they interact with the api
 	- LATER setup SMQ
 	- LATER setup `queue_a`
 	- LATER setup `queue_b`
