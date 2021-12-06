@@ -1,11 +1,13 @@
 - language is TypeScript so I can focus on learning SMQ, and so I can combine everything later into the school app project more quickly.
 - architecture
 	- message_sender_app: sends messages onto `queue_a` & `queue_b`
-	- message_consumer_app_A: reads off `queue_a`, does fake long process
-	- message_consumer_app_B: reads of `queue_b`, does fake long process
+	- message_consumer_app_a: reads off `queue_a`, does fake long process
+	- message_consumer_app_a: reads of `queue_b`, does fake long process
 - todo
 	- LATER setup SMQ
 	- LATER setup `queue_a`
 	- LATER setup `queue_b`
-	-
-	  LATER
+	- LATER send messages to queue_a from message_sender_app
+	- LATER send messages to queue_b from message_sender_app
+	- LATER consume messages on queue_a from message_consumer_app_a
+	- LATER consume messages on queue_b from message_consumer_app_b
