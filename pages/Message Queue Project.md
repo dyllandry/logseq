@@ -1,3 +1,3 @@
-- sender_app_1: sends messages onto queues 1 & 2
-- consumer_app_1: reads off queue 1, does fake long process A
-- consumer_app_2: reads of queue 2, does fake long process B
+- message_sender_app: sends messages onto queues A & B
+- message_consumer_app_A: reads off queue A, does fake long process
+- message_consumer_app_B: reads of queue A, does fake long process
