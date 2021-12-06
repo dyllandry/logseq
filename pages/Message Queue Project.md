@@ -1,8 +1,9 @@
+- language is TypeScript so I can focus on learning message queue
 - architecture
 	- message_sender_app: sends messages onto `queue_a` & `queue_b`
 	- message_consumer_app_A: reads off `queue_a`, does fake long process
 	- message_consumer_app_B: reads of `queue_b`, does fake long process
 - todo
 	- LATER setup SMQ
-	- LATER setup queue_a
+	- LATER setup `queue_a`
 	- LATER setup `queue_b`
