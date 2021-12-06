@@ -1,4 +1,4 @@
-- language is TypeScript so I can focus on learning message queue
+- language is TypeScript so I can focus on learning SMQ, and so I can combine everything later into the school app project more quickly.
 - architecture
 	- message_sender_app: sends messages onto `queue_a` & `queue_b`
 	- message_consumer_app_A: reads off `queue_a`, does fake long process
@@ -7,3 +7,5 @@
 	- LATER setup SMQ
 	- LATER setup `queue_a`
 	- LATER setup `queue_b`
+	-
+	  LATER
