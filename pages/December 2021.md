@@ -5,6 +5,7 @@
 		- I could build a larger project with each increment.
 	- Tech I want to use:
 		- **simple message queue (SMQ) on AWS**
+			- [[Message Queue Project]]
 			- sender_app_1: sends messages onto queues 1 & 2
 			- consumer_app_1: reads off queue 1, does fake long process
 			- consumer_app_2: reads of queue 2, does fake long process
