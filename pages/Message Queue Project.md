@@ -1,5 +1,6 @@
 - architecture
 	- message_sender_app: sends messages onto queues A & B
-	- message_consumer_app_A: reads off queue A, does fake long process
-	- message_consumer_app_B: reads of queue A, does fake long process
-	-
+	- message_consumer_app_A: reads off `queue_A`, does fake long process
+	- message_consumer_app_B: reads of queue_A, does fake long process
+- todo
+	- LATER setup message
