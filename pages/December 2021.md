@@ -1,4 +1,5 @@
-- LATER decide on web projects for portfolio
+- DONE decide on web projects for portfolio
+  id:: 61ad45c1-5491-451c-886c-86c4f6de2ce3
 	- I'd like to do small manageable projects instead of large ones. I don't want to bottleneck anything.
 		- I could build a larger project with each increment.
 	- Tech I want to use:
@@ -6,17 +7,17 @@
 			- sender_app_1: sends messages onto queues 1 & 2
 			- consumer_app_1: reads off queue 1, does fake long process
 			- consumer_app_2: reads of queue 2, does fake long process
-		- prisma ORM
+		- **prisma ORM**
 			- school app backend w/ migrations, seeding
 			- include tests that involve seeding
-		- graphql api
+		- **graphql api**
 			- on top of the school prisma ORM project
 			- include tests
-		- docker
+		- **docker**
 			- docker-compose for school database & api w/ ORM
-		- Next.js
+		- **Next.js**
 			- simple frontend for school app
-		- k8s
+		- **k8s**
 			- services:
 				- school api
 				- school database
