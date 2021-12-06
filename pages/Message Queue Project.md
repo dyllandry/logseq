@@ -8,7 +8,6 @@
 	- LATER setup `queue_a`
 	- LATER setup `queue_b`
 	- LATER setup github repo
-	- LATER setup message_sender_app
 	- LATER send messages to `queue_a` from message_sender_app
 	- LATER send messages to `queue_b` from message_sender_app
 	- LATER consume messages on `queue_a` from message_consumer_app_a
