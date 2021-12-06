@@ -4,6 +4,9 @@
 	- message_consumer_app_a: reads off `queue_a`, does fake long process
 	- message_consumer_app_a: reads of `queue_b`, does fake long process
 - todo
+	- LATER read docs on SMQ
+		- about the types of queues
+		- the architecture,
 	- LATER setup SMQ
 	- LATER setup `queue_a`
 	- LATER setup `queue_b`
