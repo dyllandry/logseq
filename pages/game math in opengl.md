@@ -8,4 +8,4 @@
 	- Camera
 		-
 		  2. Camera direction
-			- I'm unsure about this line `glm::normalize(cameraPos - cameraTarget)`.
+			- I'm unsure about this line `glm::normalize(cameraPos - cameraTarget)`. This gives a
