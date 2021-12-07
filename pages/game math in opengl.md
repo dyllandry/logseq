@@ -8,4 +8,4 @@
 	- Camera
 		-
 		  2. Camera direction
-			- I'm  `glm::normalize(cameraPos - cameraTarget)`? That gives a direction from the target to the camera. The tutorial says that because opengl makes the z
+			- I'm unsure about this line `glm::normalize(cameraPos - cameraTarget)`.
