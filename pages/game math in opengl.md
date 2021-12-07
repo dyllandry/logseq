@@ -8,4 +8,4 @@
 	- Camera
 		-
 		  2. Camera direction
-			- I'm unsure about this line `glm::normalize(cameraPos - cameraTarget)`. We want a direction from the camera to the target it's looking at, but this computation gives a direction from the target to the camera. The reasoning in the article is: "For the view matrix's coordinate system we want its z-axis to be positive and because by convention (in OpenGL) the camera points towards the negative z-axis we want to negate the direction vector. If we switch the subtraction order around we now get a vector pointing towards the camera's positive z-axis"
+			- I'm unsure about this line `glm::normalize(cameraPos - cameraTarget)`. We want a direction from the camera to the target it's looking at, but this computation gives a direction from the target to the camera. The reasoning in the article is: _"For the view matrix's coordinate system we want its z-axis to be positive and because by convention (in OpenGL) the camera points towards the negative z-axis we want to negate the direction vector. If we switch the subtraction order around we now get a vector pointing towards the camera's positive z-axis"_
