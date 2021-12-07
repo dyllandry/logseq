@@ -8,4 +8,4 @@
 	- Camera
 		-
 		  2. Camera direction
-			- Why `glm::normalize(cameraPos - cameraTarget)`
+			- Why `glm::normalize(cameraPos - cameraTarget)`? That gives a direction from the target to the camera
