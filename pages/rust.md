@@ -37,6 +37,7 @@
 	  }
 	  ```
 - control flow
+  collapsed:: true
 	- if expression
 		- ```rust
 		  if result < 5 {
@@ -90,3 +91,5 @@
 		    println!("counting down: {}", number);
 		  }
 		  ```
+- ownership
+	- Ownership is rust's
