@@ -3,4 +3,4 @@
 	- RAII (or [Scope-Bound Resource Management](https://stackoverflow.com/a/18054738/7933478)): Is releasing finite resource (file handles, sockets, etc.) when the variable goes out of scope through c++ object destructors.
 	- Generically typed array `std::vector`
 	- Templates provide compile-time abstraction
-	- Pairing data & beh
+	- Pairing data & behaviour in classes
