@@ -1,1 +1,1 @@
-- Motivation: Part of me wants to stick with C because I think that will show me how to
+- Motivation: Part of me wants to stick with C because I think that will show me how to _properly_ program things in a way that I understand _most of_ the moving parts.
