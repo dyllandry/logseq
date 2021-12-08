@@ -1,1 +1,1 @@
-- Moti
+- Motivation: Part of me wants to stick with C because I think that will show me how to
