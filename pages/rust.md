@@ -1,4 +1,5 @@
 - mutability
+  collapsed:: true
 	- ```rust
 	  let a = 5; // variable is immutable
 	  let a = 10 // but variable can be shadowed
@@ -7,6 +8,7 @@
 	  const MAX_HP: u32 = 100;
 	  ```
 - data types
+  collapsed:: true
 	- ```rust
 	  let hp: u32 = 100;
 	  ```
@@ -23,6 +25,7 @@
 		  ```
 		- fixed length
 - functions
+  collapsed:: true
 	- ```rust
 	  fn my_function(x: i32) {
 	    println!("The value of x is {}!", x);
