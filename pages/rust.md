@@ -92,4 +92,4 @@
 		  }
 		  ```
 - ownership
-	- Ownership is rust's
+	- Ownership is rust's own novel concept that allows rust to make memory-safe garuntees without needed a garbage collect
