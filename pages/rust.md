@@ -95,5 +95,8 @@
 	- Ownership is rust's own novel concept that allows rust to make memory safety guarantees without needed a garbage collector.
 - slices
 	- ```rust
+	  let s = String::from("hello world");
 	  
+	  let hello = &s[0..5];
+	  let world = &s[6..11];
 	  ```
