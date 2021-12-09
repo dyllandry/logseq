@@ -93,4 +93,7 @@
 		  ```
 - ownership
 	- Ownership is rust's own novel concept that allows rust to make memory safety guarantees without needed a garbage collector.
--
+- slices
+	- ```rust
+	  
+	  ```
