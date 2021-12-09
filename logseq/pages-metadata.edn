@@ -8,8 +8,8 @@
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
  {:block/name "c vs c++",
-  :block/created-at 1638989931247,
-  :block/updated-at 1638990313871}
+  :block/created-at 1639017196933,
+  :block/updated-at 1639017196933}
  {:block/name "card",
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
@@ -23,11 +23,11 @@
   :block/created-at 1638797927202,
   :block/updated-at 1638798780691}
  {:block/name "dec 7th, 2021",
-  :block/created-at 1638835200000,
-  :block/updated-at 1638835200000}
+  :block/created-at 1638884687682,
+  :block/updated-at 1638925426806}
  {:block/name "dec 8th, 2021",
-  :block/created-at 1638973605399,
-  :block/updated-at 1638997451800}
+  :block/created-at 1639016413205,
+  :block/updated-at 1639016591118}
  {:block/name "december 2021",
   :block/created-at 1638745618013,
   :block/updated-at 1638797834457}
@@ -42,7 +42,7 @@
   :block/updated-at 1638798932168}
  {:block/name "game math in opengl",
   :block/created-at 1638798932168,
-  :block/updated-at 1638798932168}
+  :block/updated-at 1639016997299}
  {:block/name "in-progress",
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
@@ -59,8 +59,8 @@
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
  {:block/name "rust",
-  :block/created-at 1638994101841,
-  :block/updated-at 1638994139103}
+  :block/created-at 1639017196930,
+  :block/updated-at 1639017196930}
  {:block/name "todo",
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
