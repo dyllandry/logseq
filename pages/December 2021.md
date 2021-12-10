@@ -40,9 +40,9 @@
 			- ssr, typescript
 				- twin css (tailwind + emotion)
 		- Next.js api
+			- graphql
 		- Next.js typescript
 			- LMS api
-				- graphql
 				- prisma
 		- notification message queue
 			- emails users notifications
