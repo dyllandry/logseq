@@ -27,4 +27,4 @@
 	- teacher can see a student's performance across all grades
 - todo
 	- LATER create user flow diagrams
-	- LATER create basic UI
+	- LATER sketch basic UI
