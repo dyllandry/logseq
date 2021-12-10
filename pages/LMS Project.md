@@ -20,4 +20,4 @@
 	- teachers can create classes & add students to them
 	- teachers can create assignments
 	- students can submit their work to an assignment
-	-
+	- teachers can grade student's submissions & leave comments
