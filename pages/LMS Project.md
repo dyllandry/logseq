@@ -28,5 +28,10 @@
 - todo
 	- LATER create user flow diagrams
 	- LATER sketch basic UI
+	- NOW create data model
+	  :LOGBOOK:
+	  CLOCK: [2021-12-10 Fri 14:47:02]
+	  :END:
 	- LATER create conceptual data model
-	- LATER create
+	- LATER create logical data model
+	-
