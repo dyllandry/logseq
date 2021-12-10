@@ -17,4 +17,5 @@
 	- redis session management
 - capabilities
 	- teachers and students can both use this
-	- teachers can create classes
+	- teachers can create classes & add students to them
+	-
