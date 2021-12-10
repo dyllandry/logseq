@@ -8,7 +8,8 @@
 			- [[Message Queue Project]]
 			- message_producer_app_1: sends messages onto queue
 			- consumer_app: reads off queue, does fake long process
-			-
+			- The queue I use in the school app could be
+				- web
 		- **prisma ORM**
 		  collapsed:: true
 			- school app backend w/ migrations, seeding
