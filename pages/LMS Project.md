@@ -22,6 +22,6 @@
 	- teachers can create assignments with attachments
 	- students can submit their work to an assignment
 	- teachers can grade student's submissions & leave comments
-	- sends notification to students when teacher grades submissions
-	- sends notification to students when an assignment is due soon
+	- sends notification to students when teacher grades their submissions
+	- sends notification to students when an unsubmitted assignment is due soon
 	-
