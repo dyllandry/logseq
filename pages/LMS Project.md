@@ -18,7 +18,7 @@
 - capabilities
 	- teachers and students can both use this
 	- teachers can create classes & add students to them
-	- student gets an email to go register
+	- student gets an email to register
 	- teachers can create assignments with attachments
 	- students can submit their work to an assignment
 	- teachers can grade student's submissions & leave comments
