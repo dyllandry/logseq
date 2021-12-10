@@ -5,6 +5,7 @@
 	- message_consumer_app_a: reads of `queue_b`, does fake long process
 - todo
 	- LATER read docs on SMQ
+		- article on
 		- about the types of queues
 		- read any tips about how to use them properly
 		- decide which kind of queues to use
