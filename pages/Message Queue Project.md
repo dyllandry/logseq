@@ -10,8 +10,7 @@
 		- decide which kind of queues to use
 		- example projects to see how they interact with the api
 	- LATER setup SMQ
-	- LATER setup `queue``
-	- LATER setup `queue_b`
+	- LATER setup `queue`
 	- LATER setup github repo _message-queue-project_
 	- LATER send messages to `queue_a` from message_sender_app
 	- LATER send messages to `queue_b` from message_sender_app
