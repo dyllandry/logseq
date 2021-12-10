@@ -4,13 +4,13 @@
 	- message_consumer_app: reads off `queue_a`, does fake long process
 - todo
 	- LATER read docs on SMQ
-		- article called Working with Amazon SQS messages is pretty good
 		- about the types of queues
 		- read any tips about how to use them properly
+			- article called Working with Amazon SQS messages is pretty good
 		- decide which kind of queues to use
 		- example projects to see how they interact with the api
 	- LATER setup SMQ
-	- LATER setup `queue_a`
+	- LATER setup `queue``
 	- LATER setup `queue_b`
 	- LATER setup github repo _message-queue-project_
 	- LATER send messages to `queue_a` from message_sender_app
