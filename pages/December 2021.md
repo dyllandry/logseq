@@ -35,5 +35,6 @@
 				- report card generator
 			- school api provides route to generate report cards for each student which sends messages to smq, report card generate consumes the events as it can.
 	- big project
-		- Next.js
+		- Next.js (SSR)
+			- web client
 - LATER decide on criteria for new web job
