@@ -18,4 +18,3 @@
 - capabilities
 	- teachers and students can both use this
 	- teachers can create classes
-	- teachers add
