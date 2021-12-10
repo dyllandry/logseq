@@ -28,5 +28,4 @@
 - todo
 	- LATER create user flow diagrams
 	- LATER sketch basic UI
-	-
-	  LATER
+	- LATER sketch data model
