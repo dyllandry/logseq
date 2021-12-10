@@ -49,7 +49,7 @@
 				- prisma
 		- notification message queue
 			- emails users notifications
-			- creates notification rows in db for in app notifications
+			- creates notification rows in db for notifications in the web client
 		- postgresql database
 		- redis session management
 - LATER decide on criteria for new web job
