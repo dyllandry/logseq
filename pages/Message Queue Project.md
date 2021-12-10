@@ -17,4 +17,4 @@
 	- LATER send messages to `queue_b` from message_sender_app
 	- LATER consume messages on `queue_a` from message_consumer_app_a
 	- LATER consume messages on `queue_b` from message_consumer_app_b
-	- LATER store messages that couldn't be consumed in a _dead-letter
+	- LATER store messages that couldn't be consumed in a _dead-letter queue_
