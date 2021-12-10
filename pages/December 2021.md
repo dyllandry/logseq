@@ -12,7 +12,7 @@
 				- client submits new grade to api
 				- api pushes message on notification queue that new grade is out
 				- notification app reads queue and sends out notifications to students
-					- send em
+					- send email, add row in
 		- **prisma ORM**
 		  collapsed:: true
 			- school app backend w/ migrations, seeding
