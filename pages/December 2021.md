@@ -44,5 +44,5 @@
 		- notification message queue
 			- emails users notifications
 		- postgresql database
-		-
+		- redis session management
 - LATER decide on criteria for new web job
