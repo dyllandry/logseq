@@ -40,6 +40,7 @@
 				- twin css (tailwind + emotion)
 			- LMS api
 				- graphql
+				- prisma
 		- notification message queue
 			- emails users notifications
 		- postgresql database
