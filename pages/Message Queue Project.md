@@ -1,8 +1,7 @@
 - language is TypeScript so I can focus on learning SMQ, and so I can combine everything later into the school app project more quickly.
 - architecture
 	- message_producer_app sends messages onto `queue_a` & `queue_b`
-	- message_consumer_app_a: reads off `queue_a`, does fake long process
-	- message_consumer_app_a: reads of `queue_b`, does fake long process
+	- message_consumer_app: reads off `queue_a`, does fake long process
 - todo
 	- LATER read docs on SMQ
 		- article called Working with Amazon SQS messages is pretty good
