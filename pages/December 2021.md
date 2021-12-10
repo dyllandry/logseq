@@ -7,8 +7,8 @@
 		- **simple message queue (SMQ) on AWS**
 			- [[Message Queue Project]]
 			- message_producer_app_1: sends messages onto queue
-			- consumer_app: reads off queue 1, does fake long process
-			- consumer_app_2: reads of queue 2, does fake long process
+			- consumer_app: reads off queue, does fake long process
+			-
 		- **prisma ORM**
 		  collapsed:: true
 			- school app backend w/ migrations, seeding
