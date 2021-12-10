@@ -35,7 +35,7 @@
 				- report card generator
 			- school api provides route to generate report cards for each student which sends messages to smq, report card generate consumes the events as it can.
 	- big LMS project
-		- _I could
+		- _I could still put this
 		- Next.js typescript
 			- ssr web client
 				- twin css (tailwind + emotion)
