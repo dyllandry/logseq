@@ -37,10 +37,10 @@
 	- big LMS project
 		- _I could put this on my portfolio even if it isn't finished, it could redirect to a road-map in the time being._
 		- Next.js client
-		- Next.js api
-		- Next.js typescript
 			- ssr web client
 				- twin css (tailwind + emotion)
+		- Next.js api
+		- Next.js typescript
 			- LMS api
 				- graphql
 				- prisma
