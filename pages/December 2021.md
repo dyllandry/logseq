@@ -44,6 +44,4 @@
 		- notification message queue
 			- emails users notifications
 		- postgresql database
-		- k8s?
-			- would I need docker images that are a message queue? would I then have to not use SMQ?
 - LATER decide on criteria for new web job
