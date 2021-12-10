@@ -37,15 +37,16 @@
 	- big LMS project
 		- _I could put this on my portfolio even if it isn't finished, it could redirect to a road-map in the time being._
 		- Next.js app
+		  collapsed:: true
 			- Next.js web client
 			  collapsed:: true
 				- ssr, typescript
 					- twin css (tailwind + emotion)
-		- Next.js api
-		  collapsed:: true
-			- typescript
-			- graphql
-			- prisma
+			- Next.js api
+			  collapsed:: true
+				- typescript
+				- graphql
+				- prisma
 		- notification message queue
 			- emails users notifications
 		- postgresql database
