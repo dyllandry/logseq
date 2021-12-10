@@ -9,7 +9,8 @@
 			- message_producer_app_1: sends messages onto queue
 			- consumer_app: reads off queue, does fake long process
 			- The queue I use in the school app could be
-				- client tells api
+				- client submits new grade to api
+				- api pushes message on
 		- **prisma ORM**
 		  collapsed:: true
 			- school app backend w/ migrations, seeding
