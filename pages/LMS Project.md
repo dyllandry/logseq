@@ -21,4 +21,5 @@
 	- teachers can create assignments with attachments
 	- students can submit their work to an assignment
 	- teachers can grade student's submissions & leave comments
-	- the platform sends out notifications when the teacher submits
+	- notifications when the teacher grades submissions
+	-
