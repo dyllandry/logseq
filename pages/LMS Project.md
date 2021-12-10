@@ -28,4 +28,5 @@
 - todo
 	- LATER create user flow diagrams
 	- LATER sketch basic UI
-	- LATER create cone
+	- LATER create conceptual data model
+	- LATER create
