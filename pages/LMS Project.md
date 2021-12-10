@@ -16,4 +16,5 @@
 	- postgresql database
 	- redis session management
 - capabilities
-	- teacher can register
+	- teachers and students can both use this
+	- teachers can create classrooms
