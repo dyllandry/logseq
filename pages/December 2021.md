@@ -48,6 +48,7 @@
 				- graphql
 				- prisma
 		- notification message queue
+		  collapsed:: true
 			- emails users notifications
 			- creates notification rows in db for notifications in the web client
 		- postgresql database
