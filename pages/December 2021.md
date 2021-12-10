@@ -10,7 +10,7 @@
 			- consumer_app: reads off queue, does fake long process
 			- The queue I use in the school app could be
 				- client submits new grade to api
-				- api pushes message on
+				- api pushes message on queue
 		- **prisma ORM**
 		  collapsed:: true
 			- school app backend w/ migrations, seeding
