@@ -21,5 +21,5 @@
 	  :LOGBOOK:
 	  CLOCK: [2021-12-09 Thu 19:57:53]--[2021-12-09 Thu 19:57:53] =>  00:00:00
 	  :END:
-	- LATER investigate benefits of using CloudWatch with
+	- LATER investigate benefits of using CloudWatch with SMQ
 	-
