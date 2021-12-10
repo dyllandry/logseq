@@ -18,4 +18,5 @@
 - capabilities
 	- teachers and students can both use this
 	- teachers can create classes & add students to them
-	-
+	- teachers can create assignments
+	- students can submit
