@@ -22,6 +22,7 @@
 			- docker-compose for school database & api w/ ORM
 		- **create-react-app**
 			- simple frontend for school app
+			-
 		- **k8s**
 		  collapsed:: true
 			- services:
