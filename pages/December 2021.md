@@ -38,5 +38,6 @@
 		- Next.js
 			- ssr web client
 			- LMS api
-		-
+		- notification message queue
+			- s
 - LATER decide on criteria for new web job
