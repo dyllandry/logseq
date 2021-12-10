@@ -39,5 +39,5 @@
 			- ssr web client
 			- LMS api
 		- notification message queue
-			- s
+			- emails users notifications
 - LATER decide on criteria for new web job
