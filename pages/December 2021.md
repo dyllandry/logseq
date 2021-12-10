@@ -37,6 +37,7 @@
 	- big LMS project
 		- Next.js
 			- ssr web client
+				- twin (tailwind + emotion)
 			- LMS api
 		- notification message queue
 			- emails users notifications
