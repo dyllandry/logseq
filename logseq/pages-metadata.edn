@@ -8,8 +8,8 @@
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
  {:block/name "c vs c++",
-  :block/created-at 1639017196933,
-  :block/updated-at 1639017196933}
+  :block/created-at 1639017223969,
+  :block/updated-at 1639017223969}
  {:block/name "card",
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
@@ -59,8 +59,8 @@
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
  {:block/name "rust",
-  :block/created-at 1639017196930,
-  :block/updated-at 1639017196930}
+  :block/created-at 1639017223968,
+  :block/updated-at 1639017223968}
  {:block/name "todo",
   :block/created-at 1638798932168,
   :block/updated-at 1638798932168}
