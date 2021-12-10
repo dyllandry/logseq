@@ -13,7 +13,7 @@
 				- api pushes message on notification queue that new grade is out
 				- notification app reads queue and sends out notifications to students
 					- send email (but it wont really, which maybe that's fine)
-					-
+					- or maybe I can make this a full blown system and just go for it dude
 		- **prisma ORM**
 		  collapsed:: true
 			- school app backend w/ migrations, seeding
