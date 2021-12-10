@@ -16,4 +16,4 @@
 	- postgresql database
 	- redis session management
 - capabilities
-	-
+	- teacher
