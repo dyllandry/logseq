@@ -5,7 +5,7 @@
 	- message_consumer_app_a: reads of `queue_b`, does fake long process
 - todo
 	- LATER read docs on SMQ
-		- article on
+		- article called Working with Amazon SQS messages is pretty good
 		- about the types of queues
 		- read any tips about how to use them properly
 		- decide which kind of queues to use
