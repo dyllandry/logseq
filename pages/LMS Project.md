@@ -15,4 +15,5 @@
 		- creates notification rows in db for notifications in the web client
 	- postgresql database
 	- redis session management
--
+- capabilities
+	-
