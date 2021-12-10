@@ -13,8 +13,7 @@
 	- LATER setup `queue`
 	- LATER setup github repo _message-queue-project_
 	- LATER send messages to `queue` from message_producer_app
-	- LATER send messages to `queue_b` from message_sender_app
-	- LATER consume messages on `queue_a` from message_consumer_app_a
+	- LATER consume messages on `queue` from message_consumer_app_a
 	- LATER consume messages on `queue_b` from message_consumer_app_b
 	- LATER store messages that couldn't be consumed in a _dead-letter queue_
 	  :LOGBOOK:
