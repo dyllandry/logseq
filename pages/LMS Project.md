@@ -34,4 +34,4 @@
 	  :END:
 		- [Data Modeling: Conceptual vs Logical vs Physical Data Model](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model/)
 		- LATER create conceptual data model
-		- LATER create logical data model
+		- LATER upgrade to logical data model
