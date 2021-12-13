@@ -26,6 +26,7 @@
 			- docker-compose for school database & api w/ ORM
 		- **create-react-app**
 			- simple frontend for school app
+			-
 		- **k8s**
 		  collapsed:: true
 			- services:
@@ -34,22 +35,13 @@
 				- report card generator
 			- school api provides route to generate report cards for each student which sends messages to smq, report card generate consumes the events as it can.
 	- big LMS project
-		- _I could put this on my portfolio even if it isn't finished, it could redirect to a road-map in the time being._
-		- Next.js app
-		  collapsed:: true
-			- Next.js web client
-			  collapsed:: true
-				- ssr, typescript
-					- twin css (tailwind + emotion)
-			- Next.js api
-			  collapsed:: true
-				- typescript
+		- Next.js typescript
+			- ssr web client
+				- twin css (tailwind + emotion)
+			- LMS api
 				- graphql
 				- prisma
 		- notification message queue
-		  collapsed:: true
 			- emails users notifications
-			- creates notification rows in db for notifications in the web client
 		- postgresql database
-		- redis session management
 - LATER decide on criteria for new web job
