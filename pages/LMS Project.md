@@ -19,14 +19,17 @@
 	- postgresql database
 	- redis session management
 - desired features
-	- ~teachers and students can both use this~
-	- teachers can create classes & add students to them
-	- student gets an email to register
-	- teachers can create assignments with attachments
-	- students can submit their work to an assignment
-	- teachers can grade student's submissions & leave comments
-	- sends notification to students when teacher grades their submissions
-	- sends notification to students when an unsubmitted assignment is due soon
+	- DONE teachers and students can both use this
+	  :LOGBOOK:
+	  CLOCK: [2021-12-16 Thu 08:44:01]--[2021-12-16 Thu 08:44:02] =>  00:00:01
+	  :END:
+	- LATER teachers can create classes & add students to them
+	- LATER student gets an email to register
+	- LATER teachers can create assignments with attachments
+	- LATER students can submit their work to an assignment
+	- LATER teachers can grade student's submissions & leave comments
+	- LATER sends notification to students when teacher grades their submissions
+	- LATER sends notification to students when an unsubmitted assignment is due soon
 	- teacher can see a student's performance across all grades
 - todo
   collapsed:: true
