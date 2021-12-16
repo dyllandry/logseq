@@ -24,7 +24,8 @@
 		- LATER group user stories & write them much more granularly
 			- for example:
 				- "A teacher can set the name of their class."
-				- "A teacher can optionally set their classe
+				-
+				- "A teacher can optionally set their class's course number."
 	- LATER sketch UI
 	- LATER create wireframes
 	- LATER create data model
