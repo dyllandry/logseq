@@ -1,4 +1,5 @@
 - infrastructure
+  collapsed:: true
 	- Next.js app
 		- Next.js web client
 		  collapsed:: true
@@ -16,6 +17,7 @@
 	- postgresql database
 	- redis session management
 - capabilities
+  collapsed:: true
 	- teachers and students can both use this
 	- teachers can create classes & add students to them
 	- student gets an email to register
