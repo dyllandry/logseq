@@ -19,8 +19,7 @@
 	- postgresql database
 	- redis session management
 - desired features
-  collapsed:: true
-	- teachers and students can both use this
+	- ~teachers and students can both use this~
 	- teachers can create classes & add students to them
 	- student gets an email to register
 	- teachers can create assignments with attachments
