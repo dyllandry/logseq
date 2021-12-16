@@ -22,7 +22,7 @@
 	- LATER create user stories
 		- DONE first pass, try to cover everything I can think of right now
 		- LATER group user stories & write them much more granularly
-			-
+			- for example: "A teacher can set the name of their class."
 	- LATER sketch UI
 	- LATER create wireframes
 	- LATER create data model
