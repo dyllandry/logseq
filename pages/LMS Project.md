@@ -20,7 +20,7 @@
 	- redis session management
 - todo
 	- LATER create user stories
-		- LATER first pass
+		- DONE first pass, try to cover everything I can think of right now
 	- LATER sketch UI
 	- LATER create wireframes
 	- LATER create data model
