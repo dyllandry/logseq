@@ -1,5 +1,5 @@
 - links
-	-
+	- [milanote]()
 - infrastructure
   collapsed:: true
 	- Next.js app
