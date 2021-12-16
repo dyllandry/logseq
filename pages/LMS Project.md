@@ -28,7 +28,10 @@
 	  CLOCK: [2021-12-16 Thu 08:45:06]--[2021-12-16 Thu 08:45:07] =>  00:00:01
 	  :END:
 	- DONE student gets an email to register
-	- LATER teachers can create assignments with attachments
+	- DONE teachers can create assignments with attachments
+	  :LOGBOOK:
+	  CLOCK: [2021-12-16 Thu 08:45:26]--[2021-12-16 Thu 08:45:27] =>  00:00:01
+	  :END:
 	- LATER students can submit their work to an assignment
 	- LATER teachers can grade student's submissions & leave comments
 	- LATER sends notification to students when teacher grades their submissions
