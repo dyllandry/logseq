@@ -29,7 +29,8 @@
 	- teacher can see a student's performance across all grades
 - todo
 	- LATER create user flow diagrams
-	- LATER sketch basic UI
+	- LATER sketch UI
+	- LATER create wireframes
 	- LATER create data model
 	  :LOGBOOK:
 	  CLOCK: [2021-12-10 Fri 14:47:02]--[2021-12-10 Fri 14:47:03] =>  00:00:01
