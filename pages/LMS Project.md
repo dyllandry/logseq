@@ -41,7 +41,10 @@
 	  :LOGBOOK:
 	  CLOCK: [2021-12-16 Thu 08:47:30]--[2021-12-16 Thu 08:47:31] =>  00:00:01
 	  :END:
-	- LATER sends notification to students when an unsubmitted assignment is due soon
+	- DONE sends notification to students when an unsubmitted assignment is due soon
+	  :LOGBOOK:
+	  CLOCK: [2021-12-16 Thu 08:48:44]--[2021-12-16 Thu 08:48:45] =>  00:00:01
+	  :END:
 	- LATER teacher can see a student's performance across all grades
 - todo
   collapsed:: true
