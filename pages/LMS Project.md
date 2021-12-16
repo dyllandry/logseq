@@ -26,7 +26,7 @@
 				- "A teacher can set the name of their class."
 				- "A teacher can edit the name of their class."
 				- "A teacher can optionally set their class's course number."
-				- "A teacher can edit their
+				- "A teacher can edit their class's course number."
 	- LATER sketch UI
 	- LATER create wireframes
 	- LATER create data model
