@@ -30,7 +30,7 @@
 	- LATER teachers can grade student's submissions & leave comments
 	- LATER sends notification to students when teacher grades their submissions
 	- LATER sends notification to students when an unsubmitted assignment is due soon
-	- teacher can see a student's performance across all grades
+	- LATER teacher can see a student's performance across all grades
 - todo
   collapsed:: true
 	- LATER create user stories
