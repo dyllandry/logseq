@@ -32,7 +32,10 @@
 	  :LOGBOOK:
 	  CLOCK: [2021-12-16 Thu 08:45:26]--[2021-12-16 Thu 08:45:27] =>  00:00:01
 	  :END:
-	- LATER students can submit their work to an assignment
+	- DONE students can submit their work to an assignment
+	  :LOGBOOK:
+	  CLOCK: [2021-12-16 Thu 08:45:41]--[2021-12-16 Thu 08:45:42] =>  00:00:01
+	  :END:
 	- LATER teachers can grade student's submissions & leave comments
 	- LATER sends notification to students when teacher grades their submissions
 	- LATER sends notification to students when an unsubmitted assignment is due soon
