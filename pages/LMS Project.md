@@ -37,7 +37,10 @@
 	  CLOCK: [2021-12-16 Thu 08:45:41]--[2021-12-16 Thu 08:45:42] =>  00:00:01
 	  :END:
 	- DONE teachers can grade student's submissions & leave comments
-	- LATER sends notification to students when teacher grades their submissions
+	- DONE sends notification to students when teacher grades their submissions
+	  :LOGBOOK:
+	  CLOCK: [2021-12-16 Thu 08:47:30]--[2021-12-16 Thu 08:47:31] =>  00:00:01
+	  :END:
 	- LATER sends notification to students when an unsubmitted assignment is due soon
 	- LATER teacher can see a student's performance across all grades
 - todo
