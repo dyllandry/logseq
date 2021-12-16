@@ -16,8 +16,7 @@
 		- creates notification rows in db for notifications in the web client
 	- postgresql database
 	- redis session management
-- capabilities
-  collapsed:: true
+- desired capabilities
 	- teachers and students can both use this
 	- teachers can create classes & add students to them
 	- student gets an email to register
@@ -28,7 +27,7 @@
 	- sends notification to students when an unsubmitted assignment is due soon
 	- teacher can see a student's performance across all grades
 - todo
-	- LATER create user flow diagrams
+	- LATER create user stories
 	- LATER sketch UI
 	- LATER create wireframes
 	- LATER create data model
