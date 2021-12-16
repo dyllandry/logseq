@@ -23,7 +23,10 @@
 	  :LOGBOOK:
 	  CLOCK: [2021-12-16 Thu 08:44:01]--[2021-12-16 Thu 08:44:02] =>  00:00:01
 	  :END:
-	- LATER teachers can create classes & add students to them
+	- DONE teachers can create classes & add students to them
+	  :LOGBOOK:
+	  CLOCK: [2021-12-16 Thu 08:45:06]--[2021-12-16 Thu 08:45:07] =>  00:00:01
+	  :END:
 	- LATER student gets an email to register
 	- LATER teachers can create assignments with attachments
 	- LATER students can submit their work to an assignment
