@@ -21,7 +21,8 @@
 - todo
 	- LATER create user stories
 		- DONE first pass, try to cover everything I can think of right now
-		- LATER group user stories
+		- LATER group user stories & write them much more granularly
+			-
 	- LATER sketch UI
 	- LATER create wireframes
 	- LATER create data model
