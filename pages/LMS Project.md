@@ -19,7 +19,6 @@
 	- postgresql database
 	- redis session management
 - todo
-  collapsed:: true
 	- LATER create user stories
 	- LATER sketch UI
 	- LATER create wireframes
